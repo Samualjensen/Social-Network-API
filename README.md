@@ -21,6 +21,8 @@ git clone https://github.com/Samualjensen/Social-Network-API.git
 npm i
  ```
 ### Usage:
+[label](../../Videos/social-media-api-demo.mp4)
+
 ![img](./assets/social-media-api-screenshot.png)
 ### License
 [MIT License](https://opensource.org/licenses/MIT)
